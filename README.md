@@ -135,10 +135,11 @@ https://fraudshield-007.streamlit.app/
 
 ## 👨‍💻 Authors
 
-Pranav Sahu
+## Pranav Sahu
+
 Data Science & Machine Learning Enthusiast
 
 Contributors:
 
-* Muskan
+* Muskan sahu
 * Pranav Sahu
